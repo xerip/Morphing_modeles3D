@@ -1,0 +1,18 @@
+
+Intersection point face
+
+https://stackoverflow.com/questions/42740765/intersection-between-line-and-triangle-in-3d
+
+Point in triangle test	-	coord barycentriques
+https://blackpawn.com/texts/pointinpoly/default.html
+
+Raytracing
+http://www-graphics.stanford.edu/courses/cs348b-98/gg/intersect.html#p2
+
+Coord barycentruques
+http://math.univ-lyon1.fr/~gelineau/devagreg/Coordonnes_barycentriques.pdf
+
+
+SPLIT
+
+https://www.openmesh.org/media/Documentations/OpenMesh-6.3-Documentation/a00252.html#a8622d93c8c0bc604062a97bdecc252ba
